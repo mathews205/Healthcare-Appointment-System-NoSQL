@@ -247,3 +247,4 @@ This project demonstrates the power of combining NoSQL databases:
 - **Streamlit** for building an interactive web application.
 
 With these integrations, the system achieves both scalability and performance, making it a robust solution for managing medical appointments.
+
